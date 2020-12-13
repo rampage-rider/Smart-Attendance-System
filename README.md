@@ -1,7 +1,7 @@
 # CEGSAS - CEG Smart Attendance System
 A **Smart Student Attendance Management System** through which faculties can mark and maintain attendance records of students and students can view their attendance percentage.
 
-Developed using SQL Plus to manage the database, Flask as the back-end framework, jQuery, Ajax, Bootstrap and HTML to implement the front-end.
+Developed using `SQL Plus` to manage the database, `Flask as the back-end framework`, `jQuery`, `Ajax`, `Bootstrap` and `HTML` to implement the front-end.
 
 ## Funtionalities of Web app
 - Faculties can view all the students who have shortage of attendance in a particular course.
